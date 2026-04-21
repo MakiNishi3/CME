@@ -1,6 +1,6 @@
 # CME
 os applets: 
 # Cmedia
-[Link](https://makinishi3.github.io/cme/cmedia/index.html)
+[Link](https://makinishi3.github.io/CME/cmedia/index.html)
 # Crits
-[Link](https://makinishi3.github.io/cme/crits/index.html)
+[Link](https://makinishi3.github.io/CME/crits/index.html)
